@@ -1,0 +1,39 @@
+@font-face {
+  font-family: 'ttptanbor';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./ttptanbor.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'ttptbandocheb';
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+  src: url('./ttptbandocheb.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'ttptbandocher';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./ttptbandocher.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'ttptnoeulb';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./ttptnoeulb.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'ttptnoeull';
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url('./ttptnoeull.woff2') format('woff2');
+}

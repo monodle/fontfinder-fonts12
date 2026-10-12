@@ -1,0 +1,79 @@
+@font-face {
+  font-family: 'wonbatangb';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./wonbatangb.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'wonbatangr';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./wonbatangr.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'wondotumb';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./wondotumb.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'wondotumr';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./wondotumr.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'wontitle';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./wontitle.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'wonvertbatangb';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./wonvertbatangb.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'wonvertbatangr';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./wonvertbatangr.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'wonvertdotumb';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./wonvertdotumb.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'wonvertdotumr';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./wonvertdotumr.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'wonverttitle';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./wonverttitle.woff2') format('woff2');
+}

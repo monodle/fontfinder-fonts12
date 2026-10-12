@@ -1,0 +1,47 @@
+@font-face {
+  font-family: 'ykgreenforestb';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./ykgreenforestb.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'ykgreenforestb';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./ykgreenforestotfb.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'ykgreenforestl';
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url('./ykgreenforestl.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'ykgreenforestl';
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url('./ykgreenforestotfl.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'ykgreenforestm';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./ykgreenforestm.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'ykgreenforestm';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./ykgreenforestotfm.woff2') format('woff2');
+}

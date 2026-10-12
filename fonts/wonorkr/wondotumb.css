@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'wondotumb';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./wondotumb.woff2') format('woff2');
+}

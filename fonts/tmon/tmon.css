@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'tmonmonsori';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./tmonmonsori.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'tmontium';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./tmontium.woff2') format('woff2');
+}

@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'ykgreenforestb';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./ykgreenforestb.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'ykgreenforestb';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./ykgreenforestotfb.woff2') format('woff2');
+}

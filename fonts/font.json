@@ -1,0 +1,3097 @@
+{
+  "nextRepo": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts13@20261011/fonts",
+  "fonts": [
+    {
+      "id": "high1-wonchuri-title-b",
+      "family": "high1-wonchuri-title-b",
+      "categories": [
+        "display"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.0",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts12@20261011/fonts/high1-wonchuri/high1-wonchuri-title-b.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 8,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 700,
+        "widthClass": 5,
+        "selectionFlags": [
+          "BOLD"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "homepage": "http://www.high1.com",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) 2018 high1. All rights reserved. Font designed by FONTRIX Inc.",
+          "en": "Copyright (c) 2018 high1. All rights reserved. Font designed by FONTRIX Inc."
+        },
+        "Font Family": {
+          "ko": "하이원 제목 원추리체 B",
+          "en": "high1 Wonchuri Title B"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Bold",
+          "en": "Bold"
+        },
+        "Unique Font Identifier": {
+          "en": "high1WonchuriTitleB"
+        },
+        "Full Font Name": {
+          "ko": "하이원 제목 원추리체 B",
+          "en": "high1 Wonchuri Title B"
+        },
+        "Version": {
+          "en": "Version 1.0.0; Build Release"
+        },
+        "PostScript Name": {
+          "en": "high1WonchuriTitleB"
+        },
+        "Trademark": {
+          "en": "high1 Wonchuri Title B is a registered trademark of high1."
+        },
+        "Manufacturer": {
+          "en": "high1"
+        },
+        "Designer": {
+          "ko": "박용락; 이상민;",
+          "en": "Park Young-rak; Lee Sang-min;"
+        },
+        "URL Vendor": {
+          "en": "http://www.high1.com"
+        },
+        "Typographic Family": {
+          "ko": "하이원 제목 원추리체",
+          "en": "high1 Wonchuri Title"
+        },
+        "Typographic Subfamily": {
+          "ko": "Bold",
+          "en": "Bold"
+        }
+      }
+    },
+    {
+      "id": "high1-wonchuri-title-l",
+      "family": "high1-wonchuri-title-l",
+      "categories": [
+        "display"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.0",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        300
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts12@20261011/fonts/high1-wonchuri/high1-wonchuri-title-l.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 3,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 300,
+        "widthClass": 5,
+        "selectionFlags": [],
+        "embedding": "Editable Embedding"
+      },
+      "homepage": "http://www.high1.com",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) 2018 high1. All rights reserved. Font designed by FONTRIX Inc.",
+          "en": "Copyright (c) 2018 high1. All rights reserved. Font designed by FONTRIX Inc."
+        },
+        "Font Family": {
+          "ko": "하이원 제목 원추리체 L",
+          "en": "high1 Wonchuri Title L"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Light",
+          "en": "Light"
+        },
+        "Unique Font Identifier": {
+          "en": "high1WonchuriTitleL"
+        },
+        "Full Font Name": {
+          "ko": "하이원 제목 원추리체 L",
+          "en": "high1 Wonchuri Title L"
+        },
+        "Version": {
+          "en": "Version 1.0.0; Build Release"
+        },
+        "PostScript Name": {
+          "en": "high1WonchuriTitleL"
+        },
+        "Trademark": {
+          "en": "high1 Wonchuri Title L is a registered trademark of high1."
+        },
+        "Manufacturer": {
+          "en": "high1"
+        },
+        "Designer": {
+          "ko": "박용락; 이상민;",
+          "en": "Park Young-rak; Lee Sang-min;"
+        },
+        "URL Vendor": {
+          "en": "http://www.high1.com"
+        },
+        "Typographic Family": {
+          "ko": "하이원 제목 원추리체",
+          "en": "high1 Wonchuri Title"
+        },
+        "Typographic Subfamily": {
+          "ko": "Light",
+          "en": "Light"
+        }
+      }
+    },
+    {
+      "id": "high1-wonchuri-title-m",
+      "family": "high1-wonchuri-title-m",
+      "categories": [
+        "display"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.0",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts12@20261011/fonts/high1-wonchuri/high1-wonchuri-title-m.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 6,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 500,
+        "widthClass": 5,
+        "selectionFlags": [],
+        "embedding": "Editable Embedding"
+      },
+      "homepage": "http://www.high1.com",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) 2018 high1. All rights reserved. Font designed by FONTRIX Inc.",
+          "en": "Copyright (c) 2018 high1. All rights reserved. Font designed by FONTRIX Inc."
+        },
+        "Font Family": {
+          "ko": "하이원 제목 원추리체 M",
+          "en": "high1 Wonchuri Title M"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Medium",
+          "en": "Medium"
+        },
+        "Unique Font Identifier": {
+          "en": "high1WonchuriTitleM"
+        },
+        "Full Font Name": {
+          "ko": "하이원 제목 원추리체 M",
+          "en": "high1 Wonchuri Title M"
+        },
+        "Version": {
+          "en": "Version 1.0.0; Build Release"
+        },
+        "PostScript Name": {
+          "en": "high1WonchuriTitleM"
+        },
+        "Trademark": {
+          "en": "high1 Wonchuri Title M is a registered trademark of high1."
+        },
+        "Manufacturer": {
+          "en": "high1"
+        },
+        "Designer": {
+          "ko": "박용락; 이상민;",
+          "en": "Park Young-rak; Lee Sang-min;"
+        },
+        "URL Vendor": {
+          "en": "http://www.high1.com"
+        },
+        "Typographic Family": {
+          "ko": "하이원 제목 원추리체",
+          "en": "high1 Wonchuri Title"
+        },
+        "Typographic Subfamily": {
+          "ko": "Medium",
+          "en": "Medium"
+        }
+      }
+    },
+    {
+      "id": "hoengseong",
+      "family": "hoengseong-hanu",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts12@20261011/fonts/hoengseong/hoengseong.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "homepage": "https://togethergroup.co.kr",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) 2021 by Hoengseong-gun. All rights reserved.",
+          "en": "Copyright (c) 2021 by Hoengseong-gun. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "횡성한우체",
+          "en": "Hoengseong Hanu"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "TOGETHERGROUP: Hoengseong Hanu: 2021"
+        },
+        "Full Font Name": {
+          "ko": "횡성한우체",
+          "en": "Hoengseong Hanu"
+        },
+        "Version": {
+          "en": "Version 1.000"
+        },
+        "PostScript Name": {
+          "en": "Hoengseong Hanu"
+        },
+        "Trademark": {
+          "en": "Hoengseong Hanu is a trademark of Hoengseong-gun."
+        },
+        "Manufacturer": {
+          "en": "TOGETHERGROUP"
+        },
+        "Designer": {
+          "ko": "TOGETHERGROUP",
+          "en": "TOGETHERGROUP"
+        },
+        "URL Vendor": {
+          "en": "https://togethergroup.co.kr"
+        },
+        "License Description": {
+          "en": "Hoengseong-gun"
+        },
+        "License Info URL": {
+          "en": "https://www.hsg.go.kr/hsg.web"
+        },
+        "Typographic Family": {
+          "ko": "횡성한우체",
+          "en": "Hoengseong Hanu"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "kimm",
+      "family": "kimm",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.00",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        300,
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts12@20261011/fonts/kimm/kimm.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 3,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 700,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.fontlab.co.kr",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) 2021 by FONTLAB Co.,Ltd.. All rights reserved.",
+          "en": "Copyright (c) 2021 by FONTLAB Co.,Ltd.. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "한국기계연구원_Bold",
+          "en": "KIMMBold"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "ko": "fontlab: KIMM_Bold: 2021",
+          "en": "fontlab: KIMM_Bold: 2021"
+        },
+        "Full Font Name": {
+          "ko": "한국기계연구원_Bold",
+          "en": "KIMM_Bold"
+        },
+        "Version": {
+          "ko": "Version 1.00 2021 initial release.",
+          "en": "Version 1.00 2021 initial release."
+        },
+        "PostScript Name": {
+          "ko": "한국기계연구원_Bold",
+          "en": "KIMMBold"
+        },
+        "Trademark": {
+          "ko": "KIMM_Bold is a registered trademark of fontlab.",
+          "en": "KIMM_Bold is a registered trademark of fontlab."
+        },
+        "Manufacturer": {
+          "ko": "fontlab",
+          "en": "fontlab"
+        },
+        "Designer": {
+          "ko": "JinKyung Park",
+          "en": "JinKyung Park"
+        },
+        "URL Vendor": {
+          "ko": "http://www.fontlab.co.kr",
+          "en": "http://www.fontlab.co.kr"
+        },
+        "License Info URL": {
+          "ko": "http://www.fontlab.co.kr",
+          "en": "http://www.fontlab.co.kr"
+        },
+        "Typographic Family": {
+          "ko": "한국기계연구원_Bold",
+          "en": "KIMM_Bold"
+        },
+        "License Description": {
+          "ko": "fontlab"
+        },
+        "Typographic Subfamily": {
+          "ko": "B"
+        }
+      }
+    },
+    {
+      "id": "otpyeongchangareumdareumr",
+      "family": "otpyeongchangareumdareumr",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.0",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts12@20261011/fonts/pyeongchang/otpyeongchangareumdareumr.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright 2022. Foundation for Cultural PyeongChang All rights reserved",
+          "en": "Copyright 2022. Foundation for Cultural PyeongChang All rights reserved"
+        },
+        "Font Family": {
+          "ko": "평창아름다름체OTF Regular",
+          "en": "PyeongchangAreumDareumOTF Regular"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "PyeongchangAreumDareumOTF Regular"
+        },
+        "Full Font Name": {
+          "ko": "평창아름다름체OTF Regular",
+          "en": "PyeongchangAreumDareumOTF Regular"
+        },
+        "Version": {
+          "en": "Version 1.0"
+        },
+        "PostScript Name": {
+          "en": "OTPyeongchangAreumDareumR"
+        },
+        "Trademark": {
+          "en": "Design210 FONT is a registered trademark of Design210."
+        },
+        "Manufacturer": {
+          "en": "Design210"
+        },
+        "URL Vendor": {
+          "en": "www.design210.com"
+        },
+        "Typographic Family": {
+          "ko": "평창아름다름체OTF",
+          "en": "PyeongchangAreumDareumOTF"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "otpyeongchangdalogaer",
+      "family": "otpyeongchangdalogaer",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.0",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts12@20261011/fonts/pyeongchang/otpyeongchangdalogaer.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright 2022. Foundation for Cultural PyeongChang All rights reserved",
+          "en": "Copyright 2022. Foundation for Cultural PyeongChang All rights reserved"
+        },
+        "Font Family": {
+          "ko": "평창월오개체OTF Regular",
+          "en": "PyeongchangDalogaeOTF Regular"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "PyeongchangDalogaeOTF Regular"
+        },
+        "Full Font Name": {
+          "ko": "평창월오개체OTF Regular",
+          "en": "PyeongchangDalogaeOTF Regular"
+        },
+        "Version": {
+          "en": "Version 1.0"
+        },
+        "PostScript Name": {
+          "en": "OTPyeongchangDalogaeR"
+        },
+        "Trademark": {
+          "en": "Design210 FONT is a registered trademark of Design210."
+        },
+        "Manufacturer": {
+          "en": "Design210"
+        },
+        "URL Vendor": {
+          "en": "www.design210.com"
+        },
+        "Typographic Family": {
+          "ko": "평창월오개체OTF",
+          "en": "PyeongchangDalogaeOTF"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "partialsans",
+      "family": "partialsanskr",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts12@20261011/fonts/partialsans/partialsans.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "metadata": {
+        "Font Family": {
+          "ko": "Partial Sans KR",
+          "en": "Partial Sans KR"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Full Font Name": {
+          "ko": "Partial Sans KR",
+          "en": "Partial Sans KR"
+        },
+        "Version": {
+          "en": "Version 1.000;Glyphs 3.1.2 (3151)"
+        },
+        "PostScript Name": {
+          "en": "Partial Sans KR"
+        },
+        "Copyright": {
+          "ko": "copyright © 2023, typejjun__ with Reserved Font Name",
+          "en": "copyright © 2023, typejjun__ with Reserved Font Name"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;UKWN;PartialSansKR-Regular"
+        },
+        "Trademark": {
+          "en": "Partial Sans KR is a trademark of typejjun__."
+        },
+        "Designer": {
+          "en": "Jun young Park"
+        },
+        "Typographic Family": {
+          "ko": "파셜산스-한글",
+          "en": "Partial Sans KR"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "puradak",
+      "family": "puradak-gentle-gothic",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.0",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts12@20261011/fonts/puradak/puradak.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "https://puradakchicken.com",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) 2022 Iduskorea. All rights reserved. Font designed by Iduskorea.",
+          "en": "Copyright (c) 2022 Iduskorea. All rights reserved. Font designed by Iduskorea."
+        },
+        "Font Family": {
+          "ko": "푸라닭 젠틀 고딕 OTF",
+          "en": "Puradak Gentle Gothic OTF"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "Iduskorea;Puradak Gentle Gothic OTF;Regular"
+        },
+        "Full Font Name": {
+          "ko": "푸라닭 젠틀 고딕 OTF Regular",
+          "en": "Puradak Gentle Gothic OTF Regular"
+        },
+        "Version": {
+          "en": "Version 1.0.0; Build Release"
+        },
+        "PostScript Name": {
+          "en": "PuradakGentleGothicOTFR"
+        },
+        "Trademark": {
+          "en": "Puradak Gentle Gothic OTF Regular is a registered trademark of Iduskorea."
+        },
+        "Manufacturer": {
+          "en": "Iduskorea"
+        },
+        "Designer": {
+          "ko": "박용락; 유현주;",
+          "en": "Park Young-rak; Yu Hyun-ju;"
+        },
+        "URL Vendor": {
+          "en": "https://puradakchicken.com"
+        },
+        "Typographic Family": {
+          "ko": "푸라닭 젠틀 고딕 OTF",
+          "en": "Puradak Gentle Gothic OTF"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "pureunjeonnam",
+      "family": "pureunjeonnam",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.020",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400,
+        500,
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts12@20261011/fonts/pureunjeonnam/pureunjeonnam.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 8,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 700,
+        "widthClass": 5,
+        "selectionFlags": [
+          "BOLD"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.YoonDesign.com",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright (C) Jeollanam-do. and YoonDesign Inc. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "푸른전남",
+          "en": "PureunJeonnam"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Bold",
+          "en": "Bold"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;YDI ;PureunJeonnamBold"
+        },
+        "Full Font Name": {
+          "ko": "푸른전남 Bold",
+          "en": "PureunJeonnam Bold"
+        },
+        "Version": {
+          "en": "Version 1.020;Build20171214"
+        },
+        "PostScript Name": {
+          "en": "PureunJeonnamBold"
+        },
+        "Trademark": {
+          "en": "PureunJeonnam Bold is a trademark of Jeollanam-do."
+        },
+        "Manufacturer": {
+          "en": "YoonDesign Inc."
+        },
+        "Designer": {
+          "en": "임광규(Im, Kwang Kyu);정수화(Jung, Soo Hwa);한도희(Han, do hee)"
+        },
+        "URL Vendor": {
+          "en": "http://www.YoonDesign.com"
+        },
+        "License Info URL": {
+          "en": "http://www.YoonDesign.com/license"
+        },
+        "Typographic Family": {
+          "ko": "푸른전남",
+          "en": "PureunJeonnam"
+        },
+        "Typographic Subfamily": {
+          "ko": "Bold",
+          "en": "Bold"
+        }
+      }
+    },
+    {
+      "id": "pyeongchang",
+      "family": "pyeongchang",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.010",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400,
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts12@20261011/fonts/pyeongchang/pyeongchang.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "homepage": "http://www.YoonDesign.com",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright © 2022 PyeongChang County. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "평창체 Regular",
+          "en": "PyeongChang Regular"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.010;YDI ;PyeongChang-Regular"
+        },
+        "Full Font Name": {
+          "ko": "평창체 Regular",
+          "en": "PyeongChang Regular"
+        },
+        "Version": {
+          "en": "Version 1.010;Build 20220323"
+        },
+        "PostScript Name": {
+          "en": "PyeongChang-Regular"
+        },
+        "Trademark": {
+          "en": "PyeongChang is a trademark of PyeongChang County."
+        },
+        "Manufacturer": {
+          "en": "YoonDesign Inc."
+        },
+        "Designer": {
+          "en": "Choi Chi-young, Kim Jung-jin, Han Dohee"
+        },
+        "URL Vendor": {
+          "en": "http://www.YoonDesign.com"
+        },
+        "Typographic Family": {
+          "ko": "평창체",
+          "en": "PyeongChang"
+        }
+      }
+    },
+    {
+      "id": "pyeongchangpeace",
+      "family": "pyeongchangpeace",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.010",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        300,
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts12@20261011/fonts/pyeongchang/pyeongchangpeace.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 8,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 700,
+        "widthClass": 5,
+        "selectionFlags": [],
+        "embedding": "Editable Embedding"
+      },
+      "homepage": "http://www.YoonDesign.com",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright © 2022 PyeongChang County. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "평창 평화체 Bold",
+          "en": "PyeongChang Peace Bold"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.010;YDI ;PyeongChangPeace-Bold"
+        },
+        "Full Font Name": {
+          "ko": "평창 평화체 Bold",
+          "en": "PyeongChang Peace Bold"
+        },
+        "Version": {
+          "en": "Version 1.010;Build 20220323"
+        },
+        "PostScript Name": {
+          "en": "PyeongChangPeace-Bold"
+        },
+        "Trademark": {
+          "en": "PyeongChang Peace is a trademark of PyeongChang County."
+        },
+        "Manufacturer": {
+          "en": "YoonDesign Inc."
+        },
+        "Designer": {
+          "en": "Choi Chi-young, Kim Jung-jin, Han Dohee"
+        },
+        "URL Vendor": {
+          "en": "http://www.YoonDesign.com"
+        },
+        "Typographic Family": {
+          "ko": "평창 평화체",
+          "en": "PyeongChang Peace"
+        },
+        "Typographic Subfamily": {
+          "ko": "Bold",
+          "en": "Bold"
+        }
+      }
+    },
+    {
+      "id": "skybori",
+      "family": "skybori",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts12@20261011/fonts/skybori/skybori.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "https://itsfont.com/",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) 2023 by WOONGJIN FOODS. All rights reserved.",
+          "en": "Copyright (c) 2023 by WOONGJIN FOODS. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "하늘보리체",
+          "en": "SKYBORI"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "SKYBORI"
+        },
+        "Full Font Name": {
+          "ko": "하늘보리체",
+          "en": "SKYBORI"
+        },
+        "Version": {
+          "en": "Version 1.000"
+        },
+        "PostScript Name": {
+          "ko": "하늘보리체",
+          "en": "SKYBORI"
+        },
+        "Trademark": {
+          "ko": "SKYBORI is a trademark of WOONGJIN FOODS.",
+          "en": "SKYBORI is a trademark of WOONGJIN FOODS."
+        },
+        "Manufacturer": {
+          "en": "TOGETHERGROUP"
+        },
+        "Designer": {
+          "ko": "TOGETHERGROUP",
+          "en": "TOGETHERGROUP"
+        },
+        "URL Vendor": {
+          "en": "https://itsfont.com/"
+        },
+        "License Description": {
+          "en": "WOONGJIN FOODS"
+        },
+        "License Info URL": {
+          "en": "https://www.wjfood.co.kr"
+        },
+        "Typographic Family": {
+          "ko": "하늘보리체",
+          "en": "SKYBORI"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "tmonmonsori",
+      "family": "tmonmonsori",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.1",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts12@20261011/fonts/tmon/tmonmonsori.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 10,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 900,
+        "widthClass": 5,
+        "selectionFlags": [
+          "BOLD"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "homepage": "http://www.tmon.co.kr",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) 2016 TICKETMONSTER. All rights reserved. Font designed by FONTRIX Inc.",
+          "en": "Copyright (c) 2016 TICKETMONSTER. All rights reserved. Font designed by FONTRIX Inc."
+        },
+        "Font Family": {
+          "ko": "Tmon몬소리 Black",
+          "en": "TmonMonsori Black"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "TICKETMONSTER_TmonMonsoriBlack"
+        },
+        "Full Font Name": {
+          "ko": "Tmon몬소리 Black",
+          "en": "TmonMonsori Black"
+        },
+        "Version": {
+          "en": "Version 1.1.0; Build Release"
+        },
+        "PostScript Name": {
+          "en": "TmonMonsoriBlack"
+        },
+        "Trademark": {
+          "en": "TmonMonsori Black is a registered trademark of TICKETMONSTER."
+        },
+        "Manufacturer": {
+          "en": "TICKETMONSTER"
+        },
+        "Designer": {
+          "ko": "박용락;",
+          "en": "Park Young-rak;"
+        },
+        "URL Vendor": {
+          "en": "http://www.tmon.co.kr"
+        },
+        "License Description": {
+          "en": "TICKETMONSTER"
+        },
+        "License Info URL": {
+          "en": "http://www.tmon.co.kr"
+        },
+        "Typographic Family": {
+          "ko": "Tmon몬소리",
+          "en": "TmonMonsori"
+        },
+        "Typographic Subfamily": {
+          "ko": "Black",
+          "en": "Black"
+        }
+      }
+    },
+    {
+      "id": "tmontium",
+      "family": "tmontium",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "en",
+        "de",
+        "fr"
+      ],
+      "version": "1.0",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts12@20261011/fonts/tmon/tmontium.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 8,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 700,
+        "widthClass": 5,
+        "selectionFlags": [
+          "BOLD"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "en": "Typeface © ( TICKET MONSTER ). 2014. All Rights Reserved"
+        },
+        "Font Family": {
+          "en": "Tium"
+        },
+        "Font Subfamily (Style)": {
+          "en": "Bold",
+          "de": "Bold",
+          "fr": "Bold",
+          "win_0x0403": "Bold",
+          "win_0x0405": "Bold",
+          "win_0x0406": "Bold",
+          "win_0x0408": "Bold",
+          "win_0x040A": "Bold",
+          "win_0x040B": "Bold",
+          "win_0x040E": "Bold",
+          "win_0x0410": "Bold",
+          "win_0x0413": "Bold",
+          "win_0x0414": "Bold",
+          "win_0x0415": "Bold",
+          "win_0x0416": "Bold",
+          "win_0x0419": "Bold",
+          "win_0x041B": "Bold",
+          "win_0x041D": "Bold",
+          "win_0x041F": "Bold",
+          "win_0x0424": "Bold",
+          "win_0x042D": "Bold",
+          "win_0x080A": "Bold",
+          "win_0x0816": "Bold",
+          "win_0x0C0A": "Bold",
+          "win_0x0C0C": "Bold"
+        },
+        "Unique Font Identifier": {
+          "en": "Tium"
+        },
+        "Full Font Name": {
+          "en": "Tium"
+        },
+        "Version": {
+          "en": "Version 1.0 Sep, 2014, initial release"
+        },
+        "PostScript Name": {
+          "en": "Tium"
+        }
+      }
+    },
+    {
+      "id": "ttptanbor",
+      "family": "ttptanbor",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.0",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts12@20261011/fonts/pyeongtaekgokr/ttptanbor.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) PYEONGTAEK-CITY. All rights Reserved.",
+          "en": "Copyright (c) PYEONGTAEK-CITY. All rights Reserved."
+        },
+        "Font Family": {
+          "ko": "평택안보체 Regular",
+          "en": "PT Anbo Regular"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "ko": "PT Anbo Regular",
+          "en": "PT Anbo Regular"
+        },
+        "Full Font Name": {
+          "ko": "평택안보체 Regular",
+          "en": "PT Anbo Regular"
+        },
+        "Version": {
+          "ko": "Version 1.0",
+          "en": "Version 1.0"
+        },
+        "PostScript Name": {
+          "ko": "TTPTAnboR",
+          "en": "TTPTAnboR"
+        },
+        "Trademark": {
+          "ko": "Design210 FONT is a registered trademark of Design210",
+          "en": "Design210 FONT is a registered trademark of Design210"
+        },
+        "Manufacturer": {
+          "ko": "Design210",
+          "en": "Design210"
+        },
+        "URL Vendor": {
+          "ko": "www.design210.com",
+          "en": "www.design210.com"
+        },
+        "Typographic Family": {
+          "ko": "평택안보체",
+          "en": "PT Anbo"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "ttptbandocheb",
+      "family": "ttptbandocheb",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.0",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        800
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts12@20261011/fonts/pyeongtaekgokr/ttptbandocheb.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 700,
+        "widthClass": 5,
+        "selectionFlags": [],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) PYEONGTAEK-CITY. All rights Reserved.",
+          "en": "Copyright (c) PYEONGTAEK-CITY. All rights Reserved."
+        },
+        "Font Family": {
+          "ko": "평택반도체 Bold",
+          "en": "PT Bandoche Bold"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "ko": "PT Bandoche Bold",
+          "en": "PT Bandoche Bold"
+        },
+        "Full Font Name": {
+          "ko": "평택반도체 Bold",
+          "en": "PT Bandoche Bold"
+        },
+        "Version": {
+          "ko": "Version 1.0",
+          "en": "Version 1.0"
+        },
+        "PostScript Name": {
+          "ko": "TTPTBandocheB",
+          "en": "TTPTBandocheB"
+        },
+        "Trademark": {
+          "ko": "Design210 FONT is a registered trademark of Design210",
+          "en": "Design210 FONT is a registered trademark of Design210"
+        },
+        "Manufacturer": {
+          "ko": "Design210",
+          "en": "Design210"
+        },
+        "URL Vendor": {
+          "ko": "www.design210.com",
+          "en": "www.design210.com"
+        },
+        "Typographic Family": {
+          "ko": "평택반도체",
+          "en": "PT Bandoche"
+        },
+        "Typographic Subfamily": {
+          "ko": "Bold",
+          "en": "Bold"
+        }
+      }
+    },
+    {
+      "id": "ttptbandocher",
+      "family": "ttptbandocher",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.0",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts12@20261011/fonts/pyeongtaekgokr/ttptbandocher.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) PYEONGTAEK-CITY. All rights Reserved.",
+          "en": "Copyright (c) PYEONGTAEK-CITY. All rights Reserved."
+        },
+        "Font Family": {
+          "ko": "평택반도체 Regular",
+          "en": "PT Bandoche Regular"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "ko": "PT Bandoche Regular",
+          "en": "PT Bandoche Regular"
+        },
+        "Full Font Name": {
+          "ko": "평택반도체 Regular",
+          "en": "PT Bandoche Regular"
+        },
+        "Version": {
+          "ko": "Version 1.0",
+          "en": "Version 1.0"
+        },
+        "PostScript Name": {
+          "ko": "TTPTBandocheR",
+          "en": "TTPTBandocheR"
+        },
+        "Trademark": {
+          "ko": "Design210 FONT is a registered trademark of Design210",
+          "en": "Design210 FONT is a registered trademark of Design210"
+        },
+        "Manufacturer": {
+          "ko": "Design210",
+          "en": "Design210"
+        },
+        "URL Vendor": {
+          "ko": "www.design210.com",
+          "en": "www.design210.com"
+        },
+        "Typographic Family": {
+          "ko": "평택반도체",
+          "en": "PT Bandoche"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "ttptnoeulb",
+      "family": "ttptnoeulb",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.0",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts12@20261011/fonts/pyeongtaekgokr/ttptnoeulb.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 700,
+        "widthClass": 5,
+        "selectionFlags": [],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) PYEONGTAEK-CITY. All rights Reserved.",
+          "en": "Copyright (c) PYEONGTAEK-CITY. All rights Reserved."
+        },
+        "Font Family": {
+          "ko": "평택노을체 Bold",
+          "en": "PT Noeul Bold"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "ko": "PT Noeul Bold",
+          "en": "PT Noeul Bold"
+        },
+        "Full Font Name": {
+          "ko": "평택노을체 Bold",
+          "en": "PT Noeul Bold"
+        },
+        "Version": {
+          "ko": "Version 1.0",
+          "en": "Version 1.0"
+        },
+        "PostScript Name": {
+          "ko": "TTPTNoeulB",
+          "en": "TTPTNoeulB"
+        },
+        "Trademark": {
+          "ko": "Design210 FONT is a registered trademark of Design210",
+          "en": "Design210 FONT is a registered trademark of Design210"
+        },
+        "Manufacturer": {
+          "ko": "Design210",
+          "en": "Design210"
+        },
+        "URL Vendor": {
+          "ko": "www.design210.com",
+          "en": "www.design210.com"
+        },
+        "Typographic Family": {
+          "ko": "평택노을체",
+          "en": "PT Noeul"
+        },
+        "Typographic Subfamily": {
+          "ko": "Bold",
+          "en": "Bold"
+        }
+      }
+    },
+    {
+      "id": "ttptnoeull",
+      "family": "ttptnoeull",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.0",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        300
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts12@20261011/fonts/pyeongtaekgokr/ttptnoeull.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 300,
+        "widthClass": 5,
+        "selectionFlags": [],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) PYEONGTAEK-CITY. All rights Reserved.",
+          "en": "Copyright (c) PYEONGTAEK-CITY. All rights Reserved."
+        },
+        "Font Family": {
+          "ko": "평택노을체 Light",
+          "en": "PT Noeul Light"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "ko": "PT Noeul Light",
+          "en": "PT Noeul Light"
+        },
+        "Full Font Name": {
+          "ko": "평택노을체 Light",
+          "en": "PT Noeul Light"
+        },
+        "Version": {
+          "ko": "Version 1.0",
+          "en": "Version 1.0"
+        },
+        "PostScript Name": {
+          "ko": "TTPTNoeulL",
+          "en": "TTPTNoeulL"
+        },
+        "Trademark": {
+          "ko": "Design210 FONT is a registered trademark of Design210",
+          "en": "Design210 FONT is a registered trademark of Design210"
+        },
+        "Manufacturer": {
+          "ko": "Design210",
+          "en": "Design210"
+        },
+        "URL Vendor": {
+          "ko": "www.design210.com",
+          "en": "www.design210.com"
+        },
+        "Typographic Family": {
+          "ko": "평택노을체",
+          "en": "PT Noeul"
+        },
+        "Typographic Subfamily": {
+          "ko": "Light",
+          "en": "Light"
+        }
+      }
+    },
+    {
+      "id": "wonbatangb",
+      "family": "wonbatangb",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.040",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts12@20261011/fonts/wonorkr/wonbatangb.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 700,
+        "widthClass": 5,
+        "selectionFlags": [
+          "BOLD"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.yoondesign.com",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright ⓒ 2014 (주)윤디자인연구소\n본 폰트 소프트웨어의 모든 저작권은 (주)윤디자인연구소에 있으며, 대한민국 저작권법과 국제 저작권 협약에 의해 보호받고 있습니다. 저작권자의 사전 승인 없이는 본 폰트 소프트웨어를 수정, 개작, 변형, 복사, 대여, 임대, 재판매, 배포 등을 할 수 없습니다.",
+          "en": "Copyright ⓒ 2014 YoonDesign Inc. All rights reserved.\nThis Font Software is protected by copyright laws of Korea, international copyright treaties. It may not be reproduced, copied, distributed, resold, rented, transferred without the written expression of YoonDesign Inc."
+        },
+        "Font Family": {
+          "ko": "한둥근체 바탕",
+          "en": "WON Batang"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Bold",
+          "en": "Bold"
+        },
+        "Unique Font Identifier": {
+          "en": "YDI:WON Batang Bold"
+        },
+        "Full Font Name": {
+          "ko": "한둥근체 바탕 Bold",
+          "en": "WON Batang Bold"
+        },
+        "Version": {
+          "en": "Version 1.040"
+        },
+        "PostScript Name": {
+          "en": "WONBatang-Bold"
+        },
+        "Trademark": {
+          "ko": "한둥근체 바탕는 원불교의 등록상표입니다.",
+          "en": "WON Batang is a trademark of WON-Buddhism."
+        },
+        "Manufacturer": {
+          "ko": "(주)윤디자인연구소",
+          "en": "YoonDesign Inc."
+        },
+        "Designer": {
+          "ko": "(주)윤디자인연구소",
+          "en": "YoonDesign Inc."
+        },
+        "URL Vendor": {
+          "en": "http://www.yoondesign.com"
+        },
+        "License Info URL": {
+          "en": "http://www.yoondesign.com"
+        },
+        "Typographic Family": {
+          "ko": "한둥근체",
+          "en": "WON"
+        },
+        "Typographic Subfamily": {
+          "ko": "바탕 Bold",
+          "en": "Batang Bold"
+        }
+      }
+    },
+    {
+      "id": "wonbatangr",
+      "family": "wonbatangr",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.040",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts12@20261011/fonts/wonorkr/wonbatangr.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.yoondesign.com",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright ⓒ 2014 (주)윤디자인연구소\n본 폰트 소프트웨어의 모든 저작권은 (주)윤디자인연구소에 있으며, 대한민국 저작권법과 국제 저작권 협약에 의해 보호받고 있습니다. 저작권자의 사전 승인 없이는 본 폰트 소프트웨어를 수정, 개작, 변형, 복사, 대여, 임대, 재판매, 배포 등을 할 수 없습니다.",
+          "en": "Copyright ⓒ 2014 YoonDesign Inc. All rights reserved.\nThis Font Software is protected by copyright laws of Korea, international copyright treaties. It may not be reproduced, copied, distributed, resold, rented, transferred without the written expression of YoonDesign Inc."
+        },
+        "Font Family": {
+          "ko": "한둥근체 바탕",
+          "en": "WON Batang"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "YDI:WON Batang"
+        },
+        "Full Font Name": {
+          "ko": "한둥근체 바탕",
+          "en": "WON Batang"
+        },
+        "Version": {
+          "en": "Version 1.040"
+        },
+        "PostScript Name": {
+          "en": "WONBatang"
+        },
+        "Trademark": {
+          "ko": "한둥근바탕체는 원불교의 등록상표입니다.",
+          "en": "WON Batang is a trademark of WON-Buddhism."
+        },
+        "Manufacturer": {
+          "ko": "(주)윤디자인연구소",
+          "en": "YoonDesign Inc."
+        },
+        "Designer": {
+          "ko": "(주)윤디자인연구소",
+          "en": "YoonDesign Inc."
+        },
+        "URL Vendor": {
+          "en": "http://www.yoondesign.com"
+        },
+        "License Info URL": {
+          "en": "http://www.yoondesign.com"
+        },
+        "Typographic Family": {
+          "ko": "한둥근체",
+          "en": "WON"
+        },
+        "Typographic Subfamily": {
+          "ko": "바탕",
+          "en": "Batang"
+        }
+      }
+    },
+    {
+      "id": "wondotumb",
+      "family": "wondotumb",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.040",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts12@20261011/fonts/wonorkr/wondotumb.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 700,
+        "widthClass": 5,
+        "selectionFlags": [
+          "BOLD"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.yoondesign.com",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright ⓒ 2014 (주)윤디자인연구소\n본 폰트 소프트웨어의 모든 저작권은 (주)윤디자인연구소에 있으며, 대한민국 저작권법과 국제 저작권 협약에 의해 보호받고 있습니다. 저작권자의 사전 승인 없이는 본 폰트 소프트웨어를 수정, 개작, 변형, 복사, 대여, 임대, 재판매, 배포 등을 할 수 없습니다.",
+          "en": "Copyright ⓒ 2014 YoonDesign Inc. All rights reserved.\nThis Font Software is protected by copyright laws of Korea, international copyright treaties. It may not be reproduced, copied, distributed, resold, rented, transferred without the written expression of YoonDesign Inc.\u0005"
+        },
+        "Font Family": {
+          "ko": "한둥근체 돋움",
+          "en": "WON Dotum"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Bold",
+          "en": "Bold"
+        },
+        "Unique Font Identifier": {
+          "en": "YDI:WON Dotum Bold"
+        },
+        "Full Font Name": {
+          "ko": "한둥근체 돋움 Bold",
+          "en": "WON Dotum Bold"
+        },
+        "Version": {
+          "en": "Version 1.040"
+        },
+        "PostScript Name": {
+          "en": "WONDotum-Bold"
+        },
+        "Trademark": {
+          "ko": "한둥근체 돋움는 원불교의 등록상표입니다.",
+          "en": "WON Dotum is a trademark of WON-Buddhism."
+        },
+        "Manufacturer": {
+          "ko": "(주)윤디자인연구소",
+          "en": "YoonDesign Inc."
+        },
+        "Designer": {
+          "ko": "(주)윤디자인연구소",
+          "en": "YoonDesign Inc."
+        },
+        "URL Vendor": {
+          "en": "http://www.yoondesign.com"
+        },
+        "License Info URL": {
+          "en": "http://www.yoondesign.com"
+        },
+        "Typographic Family": {
+          "ko": "한둥근체",
+          "en": "WON"
+        },
+        "Typographic Subfamily": {
+          "ko": "돋움 Bold",
+          "en": "Dotum Bold"
+        }
+      }
+    },
+    {
+      "id": "wondotumr",
+      "family": "wondotumr",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.040",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts12@20261011/fonts/wonorkr/wondotumr.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.yoondesign.com",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright ⓒ 2014 (주)윤디자인연구소\n본 폰트 소프트웨어의 모든 저작권은 (주)윤디자인연구소에 있으며, 대한민국 저작권법과 국제 저작권 협약에 의해 보호받고 있습니다. 저작권자의 사전 승인 없이는 본 폰트 소프트웨어를 수정, 개작, 변형, 복사, 대여, 임대, 재판매, 배포 등을 할 수 없습니다.",
+          "en": "Copyright ⓒ 2014 YoonDesign Inc. All rights reserved.\nThis Font Software is protected by copyright laws of Korea, international copyright treaties. It may not be reproduced, copied, distributed, resold, rented, transferred without the written expression of YoonDesign Inc."
+        },
+        "Font Family": {
+          "ko": "한둥근체 돋움",
+          "en": "WON Dotum"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "YDI:WON Dotum"
+        },
+        "Full Font Name": {
+          "ko": "한둥근체 돋움",
+          "en": "WON Dotum"
+        },
+        "Version": {
+          "en": "Version 1.040"
+        },
+        "PostScript Name": {
+          "en": "WONDotum"
+        },
+        "Trademark": {
+          "ko": "한둥근체 돋움는 원불교의 등록상표입니다.",
+          "en": "WON Dotum is a trademark of WON-Buddhism."
+        },
+        "Manufacturer": {
+          "ko": "(주)윤디자인연구소",
+          "en": "YoonDesign Inc."
+        },
+        "Designer": {
+          "ko": "(주)윤디자인연구소",
+          "en": "YoonDesign Inc."
+        },
+        "URL Vendor": {
+          "en": "http://www.yoondesign.com"
+        },
+        "License Info URL": {
+          "en": "http://www.yoondesign.com"
+        },
+        "Typographic Family": {
+          "ko": "한둥근체",
+          "en": "WON"
+        },
+        "Typographic Subfamily": {
+          "ko": "돋움",
+          "en": "Dotum"
+        }
+      }
+    },
+    {
+      "id": "wontitle",
+      "family": "wontitle",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.040",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts12@20261011/fonts/wonorkr/wontitle.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 500,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.yoondesign.com",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright ⓒ 2014 (주)윤디자인연구소\n본 폰트 소프트웨어의 모든 저작권은 (주)윤디자인연구소에 있으며, 대한민국 저작권법과 국제 저작권 협약에 의해 보호받고 있습니다. 저작권자의 사전 승인 없이는 본 폰트 소프트웨어를 수정, 개작, 변형, 복사, 대여, 임대, 재판매, 배포 등을 할 수 없습니다.",
+          "en": "Copyright ⓒ 2014 YoonDesign Inc. All rights reserved.\nThis Font Software is protected by copyright laws of Korea, international copyright treaties. It may not be reproduced, copied, distributed, resold, rented, transferred without the written expression of YoonDesign Inc."
+        },
+        "Font Family": {
+          "ko": "한둥근체 제목",
+          "en": "WON Title"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "YDI:WON Title"
+        },
+        "Full Font Name": {
+          "ko": "한둥근체 제목",
+          "en": "WON Title"
+        },
+        "Version": {
+          "en": "Version 1.040"
+        },
+        "PostScript Name": {
+          "en": "WONTitle"
+        },
+        "Trademark": {
+          "ko": "한둥근체 제목는 원불교의 등록상표입니다.",
+          "en": "WON Title is a trademark of WON-Buddhism."
+        },
+        "Manufacturer": {
+          "ko": "(주)윤디자인연구소",
+          "en": "YoonDesign Inc."
+        },
+        "Designer": {
+          "ko": "(주)윤디자인연구소",
+          "en": "YoonDesign Inc."
+        },
+        "URL Vendor": {
+          "en": "http://www.yoondesign.com"
+        },
+        "License Info URL": {
+          "en": "http://www.yoondesign.com"
+        },
+        "Typographic Family": {
+          "ko": "한둥근체",
+          "en": "WON"
+        },
+        "Typographic Subfamily": {
+          "ko": "제목",
+          "en": "Title"
+        }
+      }
+    },
+    {
+      "id": "wonvertbatangb",
+      "family": "wonvertbatangb",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.030",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts12@20261011/fonts/wonorkr/wonvertbatangb.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 700,
+        "widthClass": 5,
+        "selectionFlags": [
+          "BOLD"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.yoondesign.com",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright ⓒ 2014 (주)윤디자인연구소\n본 폰트 소프트웨어의 모든 저작권은 (주)윤디자인연구소에 있으며, 대한민국 저작권법과 국제 저작권 협약에 의해 보호받고 있습니다. 저작권자의 사전 승인 없이는 본 폰트 소프트웨어를 수정, 개작, 변형, 복사, 대여, 임대, 재판매, 배포 등을 할 수 없습니다.",
+          "en": "Copyright ⓒ 2014 YoonDesign Inc. All rights reserved.\nThis Font Software is protected by copyright laws of Korea, international copyright treaties. It may not be reproduced, copied, distributed, resold, rented, transferred without the written expression of YoonDesign Inc."
+        },
+        "Font Family": {
+          "ko": "한둥근체 세로쓰기 바탕",
+          "en": "WON Vert Batang"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Bold",
+          "en": "Bold"
+        },
+        "Unique Font Identifier": {
+          "en": "YDI:WON Batang Vert Bold"
+        },
+        "Full Font Name": {
+          "ko": "한둥근체 세로쓰기 바탕 Bold",
+          "en": "WON Batang Vert Bold"
+        },
+        "Version": {
+          "en": "Version 1.030"
+        },
+        "PostScript Name": {
+          "en": "WONVertBatang-Bold"
+        },
+        "Trademark": {
+          "ko": "한둥근체 세로쓰기 바탕는 원불교의 등록상표입니다.",
+          "en": "WON Vert Batang is a trademark of WON-Buddhism."
+        },
+        "Manufacturer": {
+          "ko": "(주)윤디자인연구소",
+          "en": "YoonDesign Inc."
+        },
+        "Designer": {
+          "ko": "(주)윤디자인연구소",
+          "en": "YoonDesign Inc."
+        },
+        "URL Vendor": {
+          "en": "http://www.yoondesign.com"
+        },
+        "License Info URL": {
+          "en": "http://www.yoondesign.com"
+        },
+        "Typographic Family": {
+          "ko": "한둥근체 세로쓰기",
+          "en": "WON Vert"
+        },
+        "Typographic Subfamily": {
+          "ko": "바탕 Bold",
+          "en": "Batang Bold"
+        }
+      }
+    },
+    {
+      "id": "wonvertbatangr",
+      "family": "wonvertbatangr",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.030",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts12@20261011/fonts/wonorkr/wonvertbatangr.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.yoondesign.com",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright ⓒ 2014 (주)윤디자인연구소\n본 폰트 소프트웨어의 모든 저작권은 (주)윤디자인연구소에 있으며, 대한민국 저작권법과 국제 저작권 협약에 의해 보호받고 있습니다. 저작권자의 사전 승인 없이는 본 폰트 소프트웨어를 수정, 개작, 변형, 복사, 대여, 임대, 재판매, 배포 등을 할 수 없습니다.",
+          "en": "Copyright ⓒ 2014 YoonDesign Inc. All rights reserved.\nThis Font Software is protected by copyright laws of Korea, international copyright treaties. It may not be reproduced, copied, distributed, resold, rented, transferred without the written expression of YoonDesign Inc."
+        },
+        "Font Family": {
+          "ko": "한둥근체 세로쓰기 바탕",
+          "en": "WON Vert Batang"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "YDI:WON Vert Batang"
+        },
+        "Full Font Name": {
+          "ko": "한둥근체 세로쓰기 바탕",
+          "en": "WON Batang"
+        },
+        "Version": {
+          "en": "Version 1.030"
+        },
+        "PostScript Name": {
+          "en": "WONVertBatang"
+        },
+        "Trademark": {
+          "ko": "한둥근 세로쓰기 바탕체는 원불교의 등록상표입니다.",
+          "en": "WON Vert Batang is a trademark of WON-Buddhism."
+        },
+        "Manufacturer": {
+          "ko": "(주)윤디자인연구소",
+          "en": "YoonDesign Inc."
+        },
+        "Designer": {
+          "ko": "(주)윤디자인연구소",
+          "en": "YoonDesign Inc."
+        },
+        "URL Vendor": {
+          "en": "http://www.yoondesign.com"
+        },
+        "License Info URL": {
+          "en": "http://www.yoondesign.com"
+        },
+        "Typographic Family": {
+          "ko": "한둥근체 세로쓰기",
+          "en": "WON Vert"
+        },
+        "Typographic Subfamily": {
+          "ko": "바탕",
+          "en": "Batang"
+        }
+      }
+    },
+    {
+      "id": "wonvertdotumb",
+      "family": "wonvertdotumb",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.030",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts12@20261011/fonts/wonorkr/wonvertdotumb.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 700,
+        "widthClass": 5,
+        "selectionFlags": [
+          "BOLD"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.yoondesign.com",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright ⓒ 2014 (주)윤디자인연구소\n본 폰트 소프트웨어의 모든 저작권은 (주)윤디자인연구소에 있으며, 대한민국 저작권법과 국제 저작권 협약에 의해 보호받고 있습니다. 저작권자의 사전 승인 없이는 본 폰트 소프트웨어를 수정, 개작, 변형, 복사, 대여, 임대, 재판매, 배포 등을 할 수 없습니다.",
+          "en": "Copyright ⓒ 2014 YoonDesign Inc. All rights reserved.\nThis Font Software is protected by copyright laws of Korea, international copyright treaties. It may not be reproduced, copied, distributed, resold, rented, transferred without the written expression of YoonDesign Inc.\u0005"
+        },
+        "Font Family": {
+          "ko": "한둥근체 세로쓰기 돋움",
+          "en": "WON Vert Dotum"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Bold",
+          "en": "Bold"
+        },
+        "Unique Font Identifier": {
+          "en": "YDI:WON Vert Dotum Bold"
+        },
+        "Full Font Name": {
+          "ko": "한둥근체 세로쓰기 돋움 Bold",
+          "en": "WON Vert Dotum Bold"
+        },
+        "Version": {
+          "en": "Version 1.030"
+        },
+        "PostScript Name": {
+          "en": "WONVertDotum-Bold"
+        },
+        "Trademark": {
+          "ko": "한둥근체 세로쓰기 돋움는 원불교의 등록상표입니다.",
+          "en": "WON Vert Dotum is a trademark of WON-Buddhism."
+        },
+        "Manufacturer": {
+          "ko": "(주)윤디자인연구소",
+          "en": "YoonDesign Inc."
+        },
+        "Designer": {
+          "ko": "(주)윤디자인연구소",
+          "en": "YoonDesign Inc."
+        },
+        "URL Vendor": {
+          "en": "http://www.yoondesign.com"
+        },
+        "License Info URL": {
+          "en": "http://www.yoondesign.com"
+        },
+        "Typographic Family": {
+          "ko": "한둥근체 세로쓰기",
+          "en": "WON Vert"
+        },
+        "Typographic Subfamily": {
+          "ko": "돋움 Bold",
+          "en": "Dotum Bold"
+        }
+      }
+    },
+    {
+      "id": "wonvertdotumr",
+      "family": "wonvertdotumr",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.030",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts12@20261011/fonts/wonorkr/wonvertdotumr.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.yoondesign.com",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright ⓒ 2014 (주)윤디자인연구소\n본 폰트 소프트웨어의 모든 저작권은 (주)윤디자인연구소에 있으며, 대한민국 저작권법과 국제 저작권 협약에 의해 보호받고 있습니다. 저작권자의 사전 승인 없이는 본 폰트 소프트웨어를 수정, 개작, 변형, 복사, 대여, 임대, 재판매, 배포 등을 할 수 없습니다.",
+          "en": "Copyright ⓒ 2014 YoonDesign Inc. All rights reserved.\nThis Font Software is protected by copyright laws of Korea, international copyright treaties. It may not be reproduced, copied, distributed, resold, rented, transferred without the written expression of YoonDesign Inc."
+        },
+        "Font Family": {
+          "ko": "한둥근체 세로쓰기 돋움",
+          "en": "WON Vert Dotum"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "YDI:WON Vert Dotum"
+        },
+        "Full Font Name": {
+          "ko": "한둥근체 세로쓰기 돋움",
+          "en": "WON Vert Dotum"
+        },
+        "Version": {
+          "en": "Version 1.030"
+        },
+        "PostScript Name": {
+          "en": "WONVertDotum"
+        },
+        "Trademark": {
+          "ko": "한둥근체 세로쓰기 돋움는 원불교의 등록상표입니다.",
+          "en": "WON Vert Dotum is a trademark of WON-Buddhism."
+        },
+        "Manufacturer": {
+          "ko": "(주)윤디자인연구소",
+          "en": "YoonDesign Inc."
+        },
+        "Designer": {
+          "ko": "(주)윤디자인연구소",
+          "en": "YoonDesign Inc."
+        },
+        "URL Vendor": {
+          "en": "http://www.yoondesign.com"
+        },
+        "License Info URL": {
+          "en": "http://www.yoondesign.com"
+        },
+        "Typographic Family": {
+          "ko": "한둥근체 세로쓰기",
+          "en": "WON Vert"
+        },
+        "Typographic Subfamily": {
+          "ko": "돋움",
+          "en": "Dotum"
+        }
+      }
+    },
+    {
+      "id": "wonverttitle",
+      "family": "wonverttitle",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.030",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts12@20261011/fonts/wonorkr/wonverttitle.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 500,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.yoondesign.com",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright ⓒ 2014 (주)윤디자인연구소\n본 폰트 소프트웨어의 모든 저작권은 (주)윤디자인연구소에 있으며, 대한민국 저작권법과 국제 저작권 협약에 의해 보호받고 있습니다. 저작권자의 사전 승인 없이는 본 폰트 소프트웨어를 수정, 개작, 변형, 복사, 대여, 임대, 재판매, 배포 등을 할 수 없습니다.",
+          "en": "Copyright ⓒ 2014 YoonDesign Inc. All rights reserved.\nThis Font Software is protected by copyright laws of Korea, international copyright treaties. It may not be reproduced, copied, distributed, resold, rented, transferred without the written expression of YoonDesign Inc."
+        },
+        "Font Family": {
+          "ko": "한둥근체 세로쓰기 제목",
+          "en": "WON Vert Title"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "YDI:WON Vert Title"
+        },
+        "Full Font Name": {
+          "ko": "한둥근체 세로쓰기 제목",
+          "en": "WON Vert Title"
+        },
+        "Version": {
+          "en": "Version 1.030"
+        },
+        "PostScript Name": {
+          "en": "WONVertTitle"
+        },
+        "Trademark": {
+          "ko": "한둥근체 세로쓰기 제목는 원불교의 등록상표입니다.",
+          "en": "WON Vert  Titleis a trademark of WON-Buddhism."
+        },
+        "Manufacturer": {
+          "ko": "(주)윤디자인연구소",
+          "en": "YoonDesign Inc."
+        },
+        "Designer": {
+          "ko": "(주)윤디자인연구소",
+          "en": "YoonDesign Inc."
+        },
+        "URL Vendor": {
+          "en": "http://www.yoondesign.com"
+        },
+        "License Info URL": {
+          "en": "http://www.yoondesign.com"
+        },
+        "Typographic Family": {
+          "ko": "한둥근체 세로쓰기",
+          "en": "WON Vert"
+        },
+        "Typographic Subfamily": {
+          "ko": "제목",
+          "en": "Title"
+        }
+      }
+    },
+    {
+      "id": "ykgreenforestb",
+      "family": "ykgreenforestb",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts12@20261011/fonts/yuhan-kimberly/ykgreenforestb.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 8,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 700,
+        "widthClass": 5,
+        "selectionFlags": [
+          "BOLD"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "https://www.yuhan-kimberly.co.kr/",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) 2026 Yuhan Kimberly. All rights reserved. Font designed by Yuhan Kimberly.",
+          "en": "Copyright (c) 2026 Yuhan Kimberly. All rights reserved. Font designed by Yuhan Kimberly."
+        },
+        "Font Family": {
+          "ko": "유한킴벌리 푸른숲체 Bold",
+          "en": "YK Green Forest Bold"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "Yuhan Kimberly;YK Green Forest;Bold"
+        },
+        "Full Font Name": {
+          "ko": "유한킴벌리 푸른숲체 Bold",
+          "en": "YK Green Forest Bold"
+        },
+        "Version": {
+          "en": "Version 1.000; Build Release"
+        },
+        "PostScript Name": {
+          "en": "YKGreenForestB"
+        },
+        "Trademark": {
+          "en": "YK Green Forest Bold is a registered trademark of Yuhan Kimberly."
+        },
+        "Manufacturer": {
+          "en": "Yuhan Kimberly"
+        },
+        "Designer": {
+          "ko": "폰트릭스",
+          "en": "Fontrix"
+        },
+        "URL Vendor": {
+          "en": "https://www.yuhan-kimberly.co.kr/"
+        },
+        "Typographic Family": {
+          "ko": "유한킴벌리 푸른숲체",
+          "en": "YK Green Forest"
+        },
+        "Typographic Subfamily": {
+          "ko": "Bold",
+          "en": "Bold"
+        }
+      }
+    },
+    {
+      "id": "ykgreenforestl",
+      "family": "ykgreenforestl",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        300
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts12@20261011/fonts/yuhan-kimberly/ykgreenforestl.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 3,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 300,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "https://www.yuhan-kimberly.co.kr/",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) 2026 Yuhan Kimberly. All rights reserved. Font designed by Yuhan Kimberly.",
+          "en": "Copyright (c) 2026 Yuhan Kimberly. All rights reserved. Font designed by Yuhan Kimberly."
+        },
+        "Font Family": {
+          "ko": "유한킴벌리 푸른숲체 Light",
+          "en": "YK Green Forest Light"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "Yuhan Kimberly;YK Green Forest;Light"
+        },
+        "Full Font Name": {
+          "ko": "유한킴벌리 푸른숲체 Light",
+          "en": "YK Green Forest Light"
+        },
+        "Version": {
+          "en": "Version 1.000; Build Release"
+        },
+        "PostScript Name": {
+          "en": "YKGreenForestL"
+        },
+        "Trademark": {
+          "en": "YK Green Forest Light is a registered trademark of Yuhan Kimberly."
+        },
+        "Manufacturer": {
+          "en": "Yuhan Kimberly"
+        },
+        "Designer": {
+          "ko": "폰트릭스",
+          "en": "Fontrix"
+        },
+        "URL Vendor": {
+          "en": "https://www.yuhan-kimberly.co.kr/"
+        },
+        "Typographic Family": {
+          "ko": "유한킴벌리 푸른숲체",
+          "en": "YK Green Forest"
+        },
+        "Typographic Subfamily": {
+          "ko": "Light",
+          "en": "Light"
+        }
+      }
+    },
+    {
+      "id": "ykgreenforestm",
+      "family": "ykgreenforestm",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts12@20261011/fonts/yuhan-kimberly/ykgreenforestm.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 6,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 500,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "https://www.yuhan-kimberly.co.kr/",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) 2026 Yuhan Kimberly. All rights reserved. Font designed by Yuhan Kimberly.",
+          "en": "Copyright (c) 2026 Yuhan Kimberly. All rights reserved. Font designed by Yuhan Kimberly."
+        },
+        "Font Family": {
+          "ko": "유한킴벌리 푸른숲체 Medium",
+          "en": "YK Green Forest Medium"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "Yuhan Kimberly;YK Green Forest;Medium"
+        },
+        "Full Font Name": {
+          "ko": "유한킴벌리 푸른숲체 Medium",
+          "en": "YK Green Forest Medium"
+        },
+        "Version": {
+          "en": "Version 1.000; Build Release"
+        },
+        "PostScript Name": {
+          "en": "YKGreenForestM"
+        },
+        "Trademark": {
+          "en": "YK Green Forest Medium is a registered trademark of Yuhan Kimberly."
+        },
+        "Manufacturer": {
+          "en": "Yuhan Kimberly"
+        },
+        "Designer": {
+          "ko": "폰트릭스",
+          "en": "Fontrix"
+        },
+        "URL Vendor": {
+          "en": "https://www.yuhan-kimberly.co.kr/"
+        },
+        "Typographic Family": {
+          "ko": "유한킴벌리 푸른숲체",
+          "en": "YK Green Forest"
+        },
+        "Typographic Subfamily": {
+          "ko": "Medium",
+          "en": "Medium"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'wonbatangb';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./wonbatangb.woff2') format('woff2');
+}

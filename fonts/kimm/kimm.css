@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'kimm';
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url('./kimm_light.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'kimm';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./kimm_bold.woff2') format('woff2');
+}
